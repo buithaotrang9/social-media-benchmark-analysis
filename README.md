@@ -1,24 +1,17 @@
 # 📊 Social Media Benchmark Analysis
 A Power BI project analyzing social media engagement patterns across platforms, content categories, post formats, and publishing times to identify potential opportunities for content strategy optimization.
-## 🎯 Project Overview
-This project explores social media benchmark data to understand how engagement performance varies across platforms and content characteristics.
 
-The goal is to help marketing teams and social media agencies identify promising content approaches, compare engagement patterns, and develop data-informed hypotheses for future content experiments.
+## 🎯 Project Overview
+This project analyzes social media engagement benchmarks across multiple platforms, content categories, post types, and publishing hours. Using data collected from multiple business accounts within the same industry as the client, the analysis aims to identify engagement patterns and provide actionable, data-informed recommendations to help the client optimize its social media content strategy.
 
 ## ❓Business Questions
-- Which content categories achieve higher average engagement rates?
-- How does engagement performance vary across social media platforms?
-- Which post formats show promising engagement patterns on different platforms?
-- Does publishing time reveal meaningful differences in engagement?
-- How can these findings inform future content experiments?
+- Which content categories show stronger engagement in the analyzed social media data?
+- Which content formats perform relatively well across different social media platforms?
+- How does engagement rate vary across posting hours?
+- Should publishing schedules be evaluated separately for each platform?
 
 ## 🗂️ Dataset 
-The dataset contains 5,000 social media posts across five platforms:
-- Instagram
-- LinkedIn
-- TikTok
-- X (Twitter)
-- YouTube
+The dataset contains social media posts collected from multiple business accounts operating in the same industry across Instagram, LinkedIn, TikTok, X (Twitter), and YouTube.
 
 Dataset source: https://dataset.xomdata.com/datasets/social_media.posts
 
@@ -31,14 +24,17 @@ Dataset source: https://dataset.xomdata.com/datasets/social_media.posts
 ## 📈 Dashboard Preview
 ### 1. Overview
 Provides a high-level summary of social media activity and engagement performance across platforms and content categories.
+
 ![Overview](screenshots/overview.png)
 
 ### 2. Content Performance
 Compares engagement patterns across platforms, content categories, and post formats to identify promising content approaches.
+
 ![Content Performance](screenshots/content-performance.png)
 
 ### 3. Publishing Performance
 Examines engagement rates and posting volume across publishing hours and days to explore potential timing patterns.
+
 ![Publishing Performance](screenshots/publishing-performance.png)
 
 ## 🔍 Key Insights
