@@ -22,12 +22,12 @@ Dataset source: https://dataset.xomdata.com/datasets/social_media.posts
 
 ## 📈 Dashboard Preview
 ### 1. Overview
-Provides a high-level summary of social media activity and engagement performance across platforms and content categories.
+Provides a high-level summary of social media activity and engagement performance across platforms, content categories, post types, and post hours.
 
 ![Overview](screenshots/overview.png)
 
 ### 2. Content Performance
-Compares engagement patterns across platforms, content categories, and post formats to identify promising content approaches.
+Compares engagement patterns across platforms, content categories, and post types to identify promising content opportunities.
 
 ![Content Performance](screenshots/content-performance.png)
 
@@ -38,30 +38,28 @@ Examines engagement rates and posting volume across publishing hours and days to
 
 ## 🔍 Key Insights
 **1. Customer Story and Educational Content Show Strong Average Engagement**
-Customer Story and Educational content recorded average engagement rates of 19.96% and 19.89%, respectively.
-These categories are promising candidates for further testing. However, the small difference between their average engagement rates does not establish a meaningful performance advantage for either category.
 
-**2. Promising Post Formats Differ Across Platforms**
-Image posts recorded relatively high average engagement rates on Instagram (19.97%) and LinkedIn (19.83%). Other formats also showed promising patterns on specific platforms.
-This suggests that content format should be evaluated in the context of each platform rather than applying one format recommendation across all channels.
+Customer Story and Educational content recorded average engagement rates of **19.96%** and **19.89%**, respectively.
 
-**3. Publishing Volume Concentrates in Certain Time Windows**
-Posting activity was concentrated around 10:00–12:00 and 15:00–17:00. However, average engagement rates varied relatively little across publishing hours.
-Higher posting volume alone does not establish that a time window is more effective. Additional testing is needed to determine whether timing changes can improve engagement.
+Both categories show promising engagement potential, with no clear performance advantage for either category based on average engagement rate alone.
+
+**2. Promising Post Types Differ Across Platforms**
+
+Image posts recorded relatively high average engagement rates on Instagram and LinkedIn, while Video and Livestream content also showed promising engagement performance on TikTok and YouTube. This suggests that content format preferences may vary across platforms
+
+**3. Posting Activity Is Concentrated in Certain Time Windows**
+
+Posting activity was highest around **10:00–12:00** and **15:00–17:00**. However, average engagement rates varied relatively little across publishing hours, suggesting that these high-activity periods do not necessarily offer a clear engagement advantage.
 
 ## 💡 Recommendations
-- **Test promising content categories:** Develop controlled experiments using Customer Story and Educational content, then compare engagement performance against the existing content mix.
-- **Adapt formats to each platform:** Test image, video, and other relevant formats by platform while keeping content topics and campaign objectives comparable.
-- **Validate publishing-time hypotheses:** Run experiments across selected time windows and compare engagement rates rather than choosing posting times based solely on volume.
-- **Measure results consistently:** Track average engagement rate alongside post volume and other available metrics to avoid favoring formats that generate high total engagement simply because more posts were published.
+**1. Use Both Content Categories** Test both Customer Story and Educational content instead of focusing entirely on one category. Use Educational content to provide useful information and Customer Story content to showcase customer experiences, product applications, and real-world benefits.
 
-These recommendations are hypotheses for testing, not guaranteed performance improvements.
+**2. Choose Content Formats for Each Platform:** Prioritize Image posts on Instagram and LinkedIn, and develop Video and Livestream content for TikTok and YouTube.
+
+**3. Diversify Posting Times:** Avoid concentrating posts in the 10:00–12:00 and 15:00–17:00 time windows solely because posting activity is highest during these periods. Keep these time windows in the current schedule while shifting some posts to other hours to explore opportunities for higher engagement.
 
 ## ⚠️ Limitations
-- The analysis is descriptive and does not establish causal relationships between content characteristics and engagement.
-- The dataset does not provide follower counts or a brand identifier, limiting the ability to compare audience-normalized performance or distinguish individual brand strategies.
-- Differences in audience size, account characteristics, campaign objectives, and content distribution may influence engagement.
-- Findings should be validated using a specific brand's own performance data before making significant content strategy decisions.
+- The dataset does not include follower counts or brand identifiers, limiting the ability to assess engagement relative to audience size or compare performance across individual brands.
 
 ## 📁 Project Structure
 ```text
