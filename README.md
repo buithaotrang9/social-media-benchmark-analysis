@@ -1,14 +1,13 @@
 # 📊 Social Media Benchmark Analysis
-A Power BI project analyzing social media engagement patterns across platforms, content categories, post formats, and publishing times to identify potential opportunities for content strategy optimization.
+A social media benchmark analysis project that identifies engagement trends across platforms, content categories, post types, and post hours to support data-driven content strategy recommendations.
 
 ## 🎯 Project Overview
-This project analyzes social media engagement benchmarks across multiple platforms, content categories, post types, and publishing hours. Using data collected from multiple business accounts within the same industry as the client, the analysis aims to identify engagement patterns and provide actionable, data-informed recommendations to help the client optimize its social media content strategy.
+This project uses social media data collected from multiple business accounts within the same industry as the target client. The analysis compares engagement performance across platforms, content categories, post types, and post hours to identify potential opportunities for improving the client's content strategy. The findings serve as benchmark-based recommendations for the client to test and validate against their own performance data.
 
 ## ❓Business Questions
-- Which content categories show stronger engagement in the analyzed social media data?
-- Which content formats perform relatively well across different social media platforms?
-- How does engagement rate vary across posting hours?
-- Should publishing schedules be evaluated separately for each platform?
+- Which content categories and post types achieve higher average engagement rates across social media platforms?
+- Which platforms offer the strongest engagement opportunities?
+- Which posting hours are associated with higher engagement?
 
 ## 🗂️ Dataset 
 The dataset contains social media posts collected from multiple business accounts operating in the same industry across Instagram, LinkedIn, TikTok, X (Twitter), and YouTube.
@@ -17,9 +16,9 @@ Dataset source: https://dataset.xomdata.com/datasets/social_media.posts
 
 ## 🛠️ Tools & Skills
 - **Power BI:** Dashboard development, data modeling, interactive filtering, and data visualization.
-- **Power Query:** Data preparation and transformation.
-- **Data Analysis:** KPI comparison, descriptive analysis, and performance benchmarking.
-- **Business Communication:** Translating analytical findings into actionable recommendations.
+- **Power Query:** Data cleaning, preparation, and transformation.
+- **Data Analysis:** Descriptive analysis, KPI comparison, and engagement benchmarking across platforms and content types.
+- **Business Communication:** Interpreting analytical findings and developing data-driven recommendations.
 
 ## 📈 Dashboard Preview
 ### 1. Overview
