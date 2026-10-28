@@ -22,7 +22,7 @@ Dataset source: https://dataset.xomdata.com/datasets/social_media.posts
 
 ## 📈 Dashboard Preview
 
-[![Social Media Dashboard](images/dashboard_overview.png)]
+[View Full Dashboard](https://github.com/buithaotrang9/social-media-benchmark-analysis/blob/main/dashboard/Social%20Media%20Dashboard.pbix)
 
 ![Overview](screenshots/overview.png)
 
