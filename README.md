@@ -21,20 +21,10 @@ Dataset source: https://dataset.xomdata.com/datasets/social_media.posts
 - **Business Communication:** Interpreting analytical findings and developing data-driven recommendations.
 
 ## 📈 Dashboard Preview
-### 1. Overview
-Provides a high-level summary of social media activity and engagement performance across platforms, content categories, post types, and post hours.
+
+[![Social Media Dashboard](images/dashboard_overview.png)]
 
 ![Overview](screenshots/overview.png)
-
-### 2. Content Performance
-Compares engagement patterns across platforms, content categories, and post types to identify promising content opportunities.
-
-![Content Performance](screenshots/content-performance.png)
-
-### 3. Publishing Performance
-Examines engagement rates and posting volume across publishing hours and days to explore potential timing patterns.
-
-![Publishing Performance](screenshots/publishing-performance.png)
 
 ## 🔍 Key Insights
 **1. Customer Story and Educational Content Show Strong Average Engagement**
