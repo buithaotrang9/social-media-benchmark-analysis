@@ -49,7 +49,8 @@ Posting activity was highest around **10:00–12:00** and **15:00–17:00**. How
 **3. Diversify Posting Times:** Avoid concentrating posts in the 10:00–12:00 and 15:00–17:00 time windows solely because posting activity is highest during these periods. Keep these time windows in the current schedule while shifting some posts to other hours to explore opportunities for higher engagement.
 
 ## ⚠️ Limitations
-- The dataset does not include follower counts or brand identifiers, limiting the ability to assess engagement relative to audience size or compare performance across individual brands.
+
+The dataset does not include follower counts or brand identifiers, limiting the ability to assess engagement relative to audience size or compare performance across individual brands.
 
 ## 📁 Project Structure
 ```text
